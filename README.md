@@ -45,6 +45,13 @@ Warning: Could not get self-name for ssy
 { lang: 'ssy', keywords: [ 'Saho keyboard', 'saho clavier' ] }
 ```
 
-# License
+## TODO
+
+1. A great addition would be to leverage metadata to be smart about which
+other languages to use:  i.e. French for languages spoken in Francophonie Africa.
+
+2. Should pull in the whole ISO-639 names even where CLDR falls short, that would get at least en/fr.
+
+## License
 
 MIT
