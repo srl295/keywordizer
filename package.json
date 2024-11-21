@@ -1,0 +1,19 @@
+{
+  "name": "keywordizer",
+  "version": "1.0.0",
+  "description": "Uses CLDR JSON data to calculate keywords for finding a keyboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "cldr" ],
+  "author": "Steven R. Loomis <srl295@codehivetx.us>",
+  "license": "MIT",
+  "dependencies": {
+    "cldr-annotations-derived-full": "^46.0.0",
+    "cldr-annotations-full": "^46.0.0",
+    "cldr-core": "^46.0.0",
+    "cldr-localenames-full": "^46.0.0",
+    "cldr-misc-full": "^46.0.0"
+  }
+}
